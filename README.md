@@ -339,7 +339,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Created+By+%E2%9D%A4%EF%B8%8F+Sunil+Sharma;ML+Engineer+%26+Computer+Vision+Developer;Building+AI+Solutions+for+the+Future;Passionate+about+Deep+Learning" alt="Typing SVG" />
 
-<img src="https://github.com/sunbyte16.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #36BCF7;" alt="Sunil Sharma"/>
 
 **[Sunil Sharma](https://github.com/sunbyte16)** ❤️  
 _ML Engineer & Computer Vision Developer_
@@ -379,4 +378,5 @@ _ML Engineer & Computer Vision Developer_
 
 </div>
 #
+
 
